@@ -1,0 +1,12 @@
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\bin\Debug\Dll_Shape.dll
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\bin\Debug\Dll_Shape.pdb
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.csproj.AssemblyReference.cache
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.csproj.CoreCompileInputs.cache
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.dll
+C:\Users\RWDA TECH\Desktop\Visual S\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.pdb
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\bin\Debug\Dll_Shape.dll
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\bin\Debug\Dll_Shape.pdb
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.csproj.AssemblyReference.cache
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.csproj.CoreCompileInputs.cache
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.dll
+C:\Users\RWDA TECH\Desktop\Visual S\Algorithm\Dll_Shape\Dll_Shape\obj\Debug\Dll_Shape.pdb
